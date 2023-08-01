@@ -1,0 +1,9 @@
+.container1 {
+    background-color: brown;
+    width: fit-content;
+    height: 500px;
+}
+.productName{
+    color: red;
+    font-size:20px;
+}

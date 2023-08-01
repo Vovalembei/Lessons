@@ -1,0 +1,13 @@
+.container2{
+   width: 400px;
+   height: 300px;  
+}
+.productName{
+  color: black;
+  width: 350px;
+}
+.container1{
+    background-color: gray;
+    width: 350px;
+    padding-left:15px;
+}
